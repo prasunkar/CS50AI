@@ -1,0 +1,6 @@
+# Traffic Project
+
+### My Experimentation Process
+My initial goal was to solely gain the maximum accuracy possible, given the dataset. I started with large amounts of hidden layers and one of both a convolutional and output layer, all with slightly differentiating settings and saw what came out of it. Evidently, this did not work as well as I intended, mainly due to immense training times/ETAs and lackluster results. I gradually removed one hidden layer at a time, further tweaking the settings to what I saw fit. This resulted in massive improvements, with an average accuracy increase of 5-7% per iteration. I repeated this cycle various times until I was content with the outcomes.
+
+In the future, I intend to focus on achieving maximum efficiency instead of accuracy, as this will give more training value to the neural network. Of course, I will continue to improve on the accuracy through more intelligent use of the variety of layers, as long as the neural network maintains exemplary growth in knowledge and speed.
