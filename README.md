@@ -2,7 +2,7 @@
 
 This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning as they incorporate them into their own Python programs. By course’s end, students emerge with experience in libraries for machine learning as well as knowledge of artificial intelligence principles that enable them to design intelligent systems of their own.
 
-![CS50AI certificate awarded to Prasun Kar](https://certificates.cs50.io/989bbb88-f751-4a1a-92ea-c514c98fda1a.png)
+![CS50AI certificate awarded to Prasun Kar](CS50AICertificatePrasunKar.png)
 
 ## 🚀 Projects
 
