@@ -9,7 +9,7 @@ This course explores the concepts and algorithms at the foundation of modern art
 ### Week 0 — 🔎 Search
 
  - [Degrees](Degrees)
- - [Tic Tac Toe]("Tic Tac Toe")
+ - [Tic Tac Toe](Tic%20Tac%20Toe)
 
 ### Week 1 — 🤔 Knowledge
 
