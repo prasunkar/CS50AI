@@ -1,5 +1,5 @@
 
-# ⚔️ Knights Project
+# 💣 Minesweeper Project
 
 **Objective:** Write an AI to play Minesweeper.
 
